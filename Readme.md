@@ -1,6 +1,6 @@
 ---
-title: Template
-author: Zuletzt bearbeitet von Alexander Bazo
+title: Zusatzuebung Interface
+author: Erstellt von Corinna Geiselhart und Philipp Schauhuber
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -29,6 +29,6 @@ header-includes: |
 
 ## Starterpaket
 
-Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe finden Sie [hier](https://github.com/OOP-Ubungen-WS2020-21/U00-Template-fuer-Aufgaben/archive/Starterpaket.zip).
+Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe finden Sie [hier](https://github.com/OOP-Ubungen-WS2020-21/Zusatzuebung_Interface.git).
 
 ## Text
