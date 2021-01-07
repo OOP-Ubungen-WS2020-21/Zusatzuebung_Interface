@@ -48,7 +48,7 @@ Bird und Airplane sind flugfähig. Diese beiden Klassen sollen die Flugfähigkei
 In der Klasse `HorseRaceApp` laufen eine beliebige Anzahl an Pferde (`Horse`) um die Wette. Die Pferde haben eine zufällige Geschwindigkeit,  weshalb im Vorhinein nicht abzuschätzen ist, welches der Pferde gewinnen wird. 
 Die Klasse `HorseRaceApp` soll darauf lauschen, wann die Pferde das Ziel (der rechte Rand von der Anwendung) erreichen und im Fenster die Reihenfolge der Pferde darstellen. Verwenden Sie für die Darstellung die `setWinnerText`- Methode.
 
-##Light - Zusatzaufgabe
+## Light - Zusatzaufgabe
 In der Klasse `Light` wird überprüft, ob ein Lichtschalter (`Rectangle switcher`) mit der Maus gedrückt wurde. Eine Klasse `LightBulb` kann eine Glühbirne zwischen den Zuständen Licht an und Licht aus wechseln (`setColor`- Methode). 
 Benutzten sie ein Interface damit das Drücken des Lichtschalters zum an und ausschalten der Glühbirne führt.
-In Light und Lightbulb befinden sich einige Konstanten. Lagern Sie diese wie in Aufgabe 1 aus und testen sie, ob das Programm weiterhin funktioniert.
+In Light und Lightbulb befinden sich einige Konstanten. Lagern Sie diese wie in der Aufgabe `RandomBouncingBalls` aus und testen Sie, ob das Programm weiterhin funktioniert.
