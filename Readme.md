@@ -24,9 +24,6 @@ header-includes: |
 
 # Zusatzübung Interface
 
-## Wichtige Informationen zur Bearbeitung der Aufgabe 
- - [Link zu wichtiger Ressource](https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/)
-
 ## Starterpaket
 
 Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe finden Sie [hier](https://github.com/OOP-Ubungen-WS2020-21/Zusatzuebung_Interface/archive/Starterpaket.zip).
