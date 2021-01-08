@@ -13,12 +13,12 @@ header-includes: |
     \fancyhf{}
     \rhead{OOP WS 2020/21}
     \lhead{Zusatzuebung Interface}
-    \cfoot{\includegraphics[height=2cm]{docs/footer.png}}
+    \cfoot{\includegraphics[height=2cm, width= 20%]{docs/footer.png}}
     \fancypagestyle{plain}{
       \fancyhf{}
       \rhead{OOP WS 2020/21}
       \lhead{Zusatzuebung Interface}
-      \cfoot[C]{\includegraphics[height=2cm]{docs/footer.png}}}
+      \cfoot[C]{\includegraphics[height=2cm, width= 20%]{docs/footer.png}}}
 ---
 
 
