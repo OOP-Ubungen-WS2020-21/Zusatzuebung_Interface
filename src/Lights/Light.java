@@ -13,14 +13,14 @@ public class Light extends GraphicsApp {
     private static final int SWITCHER_SIZE = 80;
     private static final float SWITCHER_BORDER = 1.f;
     private Rectangle switcher;
-    private Lightbulb light;
+    private LightBulb light;
 
     @Override
     public void initialize() {
         setCanvasSize(CANVAS_SIZE, CANVAS_SIZE);
         switcher = new Rectangle(SWITCHER_SIZE/2, CANVAS_SIZE - SWITCHER_SIZE-SWITCHER_SIZE/2, SWITCHER_SIZE, SWITCHER_SIZE, Colors.WHITE);
         switcher.setBorder(Colors.BLACK, SWITCHER_BORDER);
-        light = new Lightbulb(CANVAS_SIZE/2);
+        light = new LightBulb(CANVAS_SIZE/2);
     }
 
     @Override
