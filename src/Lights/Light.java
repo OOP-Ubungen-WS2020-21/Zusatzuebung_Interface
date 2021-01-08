@@ -17,7 +17,7 @@ public class Light extends GraphicsApp {
     private static final Color SWITCHER_BORDER_COLOR = Colors.BLACK;
 
     private Rectangle switcher;
-    private Lightbulb light;
+    private LightBulb light;
     private SwitchListener switchListener;
 
     @Override
@@ -25,7 +25,7 @@ public class Light extends GraphicsApp {
         setCanvasSize(CANVAS_SIZE, CANVAS_SIZE);
 
         initializeSwitcher();
-        light = new Lightbulb(CANVAS_SIZE/2);
+        light = new LightBulb(CANVAS_SIZE/2);
         switchListener = light;
     }
 
