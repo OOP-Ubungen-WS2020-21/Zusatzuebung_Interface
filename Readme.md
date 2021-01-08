@@ -12,12 +12,12 @@ header-includes: |
     \pagestyle{fancy}
     \fancyhf{}
     \rhead{OOP WS 2020/21}
-    \lhead{U00 | Template}
+    \lhead{Zusatzuebung Interface}
     \cfoot{\includegraphics[height=2cm]{docs/footer.png}}
     \fancypagestyle{plain}{
       \fancyhf{}
       \rhead{OOP WS 2020/21}
-      \lhead{U00 | Template}
+      \lhead{Zusatzuebung Interface}
       \cfoot[C]{\includegraphics[height=2cm]{docs/footer.png}}}
 ---
 
@@ -48,4 +48,4 @@ Die Klasse `HorseRaceApp` soll darauf lauschen, wann die Pferde das Ziel (der re
 ## Light - Zusatzaufgabe
 In der Klasse `Light` wird überprüft, ob ein Lichtschalter (`Rectangle switcher`) mit der Maus gedrückt wurde. Eine Klasse `LightBulb` kann eine Glühbirne zwischen den Zuständen Licht an und Licht aus wechseln (`setColor`- Methode). 
 Benutzten sie ein Interface damit das Drücken des Lichtschalters zum an und ausschalten der Glühbirne führt.
-In Light und Lightbulb befinden sich einige Konstanten. Lagern Sie diese wie in der Aufgabe `RandomBouncingBalls` aus und testen Sie, ob das Programm weiterhin funktioniert.
+In Light und LightBulb befinden sich einige Konstanten. Lagern Sie diese wie in der Aufgabe `RandomBouncingBalls` aus und testen Sie, ob das Programm weiterhin funktioniert.
