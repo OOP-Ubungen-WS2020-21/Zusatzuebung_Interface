@@ -1,6 +1,6 @@
 ---
 title: Zusatzuebung Interface
-author: Erstellt von Corinna Geiselhart und Philipp Schauhuber
+author: Erstellt von Corinna Geiselhart, Philipp Schauhuber
 documentclass: scrartcl
 classoption:
   - a4paper
